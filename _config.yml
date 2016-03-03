@@ -21,10 +21,10 @@ color:
     - '#000000'
     - '#ea4335'
     - '#fbbc05'
-  brandStrength: 0.125
-  lightness: 0.75
+  brandStrength: 0.0625
+  lightness: 0.5625
   saturation: 0.3125
-  rhythmicContrast: 0.5
+  rhythmicContrast: 0.75
 purpose:
   - name: null
     item: null
