@@ -4,8 +4,15 @@
         <description><![CDATA[digital agency]]></description>
         <link>https://thegrid.ai/digital-agency/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 03 Mar 2016 13:24:29 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Mar 2016 13:24:44 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/digital-agency/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Display Benchmarks Tool - Think with Google]]></title>
+            <description><![CDATA[<article><h1>Display Benchmarks Tool - Think with Google</h1><p>Want to understand how your display campaigns compare to those across the rest of the ad industry? This tool lets you pull up-to-date industry benchmarks such as click-through rate, interaction rate and time, expansion rate and video completions by country, vertical, ad size and ad format.</p><img src="https://www.thinkwithgoogle.com/think/images/display-benchmarks_tools_01.jpg"></article>]]></description>
+            <link>https://www.thinkwithgoogle.com/tools/display-benchmarks.html</link>
+            <guid isPermaLink="false">3242e33c-513c-4cdc-b280-0ea467edf3f0</guid>
+            <pubDate>Thu, 03 Mar 2016 13:23:09 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Google Trends - Think with Google]]></title>
             <description><![CDATA[<article><h1>Google Trends - Think with Google</h1><p>Are searches for your brand increasing over time? Are consumers searching for you or your competitor? Learn about your brand with this tool.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b4ac466926433e2410174602e78e4310429db1e6.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://www.thinkwithgoogle.com/articles/how-identify-right-kpis-online-video.html</link>
             <guid isPermaLink="false">5245471c-0496-4c2b-8145-12e27d9116a3</guid>
             <pubDate>Thu, 03 Mar 2016 13:04:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Australian YouTube Ads Leaderboard: Year-End 2015]]></title>
-            <description><![CDATA[<article><h1>Australian YouTube Ads Leaderboard: Year-End 2015</h1><p>The Australian YouTube Ads Leaderboard for 2015 highlights the best ads on YouTube, and showcases advertising excellence and creative innovation.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5f3637fbd0c0a3aea1625e671927885c1f6dcf97.jpg"></article>]]></description>
-            <link>https://www.thinkwithgoogle.com/platforms/video/leaderboards/australian-youtube-leaderboard-year-end-2015.html</link>
-            <guid isPermaLink="false">92788138-ecfa-4171-9af6-15338126b2c4</guid>
-            <pubDate>Thu, 03 Mar 2016 12:58:29 GMT</pubDate>
         </item>
     </channel>
 </rss>
