@@ -9,10 +9,10 @@ publisher:
 keywords: []
 description: ''
 app_links: []
-isBasedOnUrl: 'https://www.consumerbarometer.com/en/'
+isBasedOnUrl: 'https://www.consumerbarometer.com/en/insights/?countryCode=GL'
 title: Consumer Barometer from Google
-datePublished: '2016-03-03T13:23:08.216Z'
-dateModified: '2016-03-03T13:08:18.078Z'
+datePublished: '2016-03-03T13:23:09.386Z'
+dateModified: '2016-03-03T13:08:43.108Z'
 sourcePath: _posts/2016-03-03-consumer-barometer-from-google.md
 published: true
 inFeed: true
