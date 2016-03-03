@@ -1,0 +1,18 @@
+analytics: {}
+color:
+  brandColors:
+    - '#000000'
+    - '#1F3A65'
+    - '#585050'
+    - '#6890D0'
+    - '#A0C0F0'
+  brandStrength: 0.770573
+  lightness: 0.016872
+  rhythmicContrast: 0.056576
+  saturation: 0.268698
+cta: {}
+layout_spectrum: 0.941303
+name: digital agency
+opengraph: {}
+purpose: {}
+typography_spectrum: 0.759046
