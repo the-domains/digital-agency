@@ -1,18 +1,31 @@
-analytics: {}
+name: digital agency
+favicon: null
+layout_spectrum: 0.941303
+typography_spectrum: 0.759046
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
   brandColors:
+    - '#ffffff'
+    - '#4285f4'
     - '#000000'
-    - '#1F3A65'
-    - '#585050'
-    - '#6890D0'
-    - '#A0C0F0'
-  brandStrength: 1
-  lightness: 0.016872
-  rhythmicContrast: 0.120065
-  saturation: 0.268698
-cta: {}
-layout_spectrum: 0.941303
-name: digital agency
-opengraph: {}
-purpose: {}
-typography_spectrum: 0.759046
+    - '#ea4335'
+    - '#fbbc05'
+  brandStrength: 0.9375
+  lightness: 0.75
+  saturation: 0.3125
+  rhythmicContrast: 0.056576
+purpose:
+  - name: null
+    item: null
+    url: null
