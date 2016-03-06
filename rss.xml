@@ -4,8 +4,15 @@
         <description><![CDATA[digital agency | designed by artificial intelligence]]></description>
         <link>https://thegrid.ai/digital-agency/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 05 Mar 2016 22:31:09 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 Mar 2016 00:51:20 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/digital-agency/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[LastPass - Trial LastPass Enterprise]]></title>
+            <description><![CDATA[<article><h1>LastPass - Trial LastPass Enterprise</h1><p>LastPass is an online password manager and form filler that makes web browsing easier and more secure.</p></article>]]></description>
+            <link>https://lastpass.com/enterprise_trial.php?esrc=da</link>
+            <guid isPermaLink="false">f5f996c8-7eb3-4a18-8de4-4b3be9a68045</guid>
+            <pubDate>Sun, 06 Mar 2016 00:50:50 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Google Partners]]></title>
             <description><![CDATA[<article><h1>Google Partners</h1></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://www.thinkwithgoogle.com/tools/mobile-purchase-journey.html</link>
             <guid isPermaLink="false">38fe657b-4e8c-4ce9-bf92-142e2bf3fcd7</guid>
             <pubDate>Thu, 03 Mar 2016 13:23:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[New Data Shows Online Video Ads Drive Consideration, Favorability, Purchase Intent, and Sales]]></title>
-            <description><![CDATA[<article><h1>New Data Shows Online Video Ads Drive Consideration, Favorability, Purchase Intent, and Sales</h1><p>Online video can be much more than an awareness driver. New research shows that YouTube not only drives brand metrics throughout the consumer journey-from consideration and favorability to purchase intent-but also boosts potential for positive return on ad spend compared to TV.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3bb905d863299e848fd97d86f4a003e916262b2a.jpg"></article>]]></description>
-            <link>https://www.thinkwithgoogle.com/articles/online-video-ads-drive-consideration-favorability-purchase-intent-sales.html</link>
-            <guid isPermaLink="false">4a421606-fd8a-4c25-9242-4c4d3c3561bd</guid>
-            <pubDate>Thu, 03 Mar 2016 13:20:48 GMT</pubDate>
         </item>
     </channel>
 </rss>
