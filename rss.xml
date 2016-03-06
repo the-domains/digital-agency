@@ -4,8 +4,15 @@
         <description><![CDATA[digital agency | designed by artificial intelligence]]></description>
         <link>https://thegrid.ai/digital-agency/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 06 Mar 2016 00:51:20 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 Mar 2016 00:55:40 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/digital-agency/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[LastPass.com]]></title>
+            <description><![CDATA[<article><h1>LastPass.com</h1><p>LastPass is an online password manager and form filler that makes web browsing easier and more secure.</p><img src="https://lastpass.com/images/lastpassicon.png"></article>]]></description>
+            <link>https://lastpass.com/friendwelcome.php?og=1&amp;ref=1936986</link>
+            <guid isPermaLink="false">f8f34b81-f1c4-475e-9006-86c04907571a</guid>
+            <pubDate>Sun, 06 Mar 2016 00:50:21 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[LastPass - Trial LastPass Enterprise]]></title>
             <description><![CDATA[<article><h1>LastPass - Trial LastPass Enterprise</h1><p>LastPass is an online password manager and form filler that makes web browsing easier and more secure.</p></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://www.thinkwithgoogle.com/articles/5-ways-consumers-connect-stores-mobile-shopping.html</link>
             <guid isPermaLink="false">1d33f1b6-b4f1-47bc-ad1a-329b33e0f41b</guid>
             <pubDate>Thu, 03 Mar 2016 13:23:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Mobile in the Purchase Journey - Think with Google]]></title>
-            <description><![CDATA[<article><h1>Mobile in the Purchase Journey - Think with Google</h1><p>What is the role of the smartphone in the consumer journey? Explore the data anyway you like through this interactive tool.</p></article>]]></description>
-            <link>https://www.thinkwithgoogle.com/tools/mobile-purchase-journey.html</link>
-            <guid isPermaLink="false">38fe657b-4e8c-4ce9-bf92-142e2bf3fcd7</guid>
-            <pubDate>Thu, 03 Mar 2016 13:23:08 GMT</pubDate>
         </item>
     </channel>
 </rss>
