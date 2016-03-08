@@ -4,8 +4,15 @@
         <description><![CDATA[digital agency | designed by artificial intelligence]]></description>
         <link>https://thegrid.ai/digital-agency/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 08 Mar 2016 07:32:09 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Mar 2016 12:51:56 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/digital-agency/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Google Partners Connect]]></title>
+            <description><![CDATA[<article><h1>Google Partners Connect</h1><p>The Internet gives every business a chance to achieve success. We'd like to invite you to join our agency for a Google livestream event where you'll learn from both Google and our team about how to grow your business online.</p></article>]]></description>
+            <link>https://partnersconnect.withgoogle.com/event/digital-agency</link>
+            <guid isPermaLink="false">f73ecc8f-65b0-4aa9-8a14-0d59ec7ce511</guid>
+            <pubDate>Tue, 08 Mar 2016 12:50:52 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Follow Digital Agency on Twitter]]></title>
             <description><![CDATA[<article><h1>Follow Digital Agency on Twitter</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/615f7ee3ec83bc6c2a579e0153ee6b7244c7902d.png"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Display Benchmarks Tool - Think with Google</h1><p>Want to understand how your display campaigns compare to those across the rest of the ad industry? This tool lets you pull up-to-date industry benchmarks such as click-through rate, interaction rate and time, expansion rate and video completions by country, vertical, ad size and ad format.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c74102ea44a1de11d4c91e848cffddd06bcc161d.jpg"></article>]]></description>
             <link>https://www.thinkwithgoogle.com/tools/display-benchmarks.html</link>
             <guid isPermaLink="false">3242e33c-513c-4cdc-b280-0ea467edf3f0</guid>
-            <pubDate>Thu, 03 Mar 2016 13:23:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Google Trends - Think with Google]]></title>
-            <description><![CDATA[<article><h1>Google Trends - Think with Google</h1><p>Are searches for your brand increasing over time? Are consumers searching for you or your competitor? Learn about your brand with this tool.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b4ac466926433e2410174602e78e4310429db1e6.jpg"></article>]]></description>
-            <link>https://www.thinkwithgoogle.com/tools/google-trends.html</link>
-            <guid isPermaLink="false">3ada8b56-54d4-4418-a71f-5d4455b96c27</guid>
             <pubDate>Thu, 03 Mar 2016 13:23:09 GMT</pubDate>
         </item>
     </channel>
