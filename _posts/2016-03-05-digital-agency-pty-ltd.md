@@ -1,18 +1,10 @@
 ---
-author: []
-related:
-  - score: 0.6778869033
-    description: It was just under two years ago when the injection of Google+ into YouTube comments caused quite a controversy. This change required the use of a Google+ account to participate in conversations on Google products. A new announcement today is decentralizing Google+ for Google users and focusing back on a standard Google account.
-    title: 'Google Drops The Google+ Requirement For Products, Starts Today With YouTube'
-    url: 'http://marketingland.com/google-drops-the-google-requirement-for-products-starts-today-with-youtube-136651'
-    thumbnail_height: 1080
-    thumbnail_url: 'http://marketingland.com/wp-content/ml-loads/2014/07/google-plus-logo2-1920.jpg'
-    thumbnail_width: 1920
-publisher:
-  url: 'http://linkedin.com'
-  name: LinkedIn
-  favicon: 'https://static.licdn.com/scds/common/u/images/logos/favicons/v1/favicon.ico'
-  domain: www.linkedin.com
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://www.linkedin.com/company/digital-agency-pty-ltd'
+inLanguage: en
+starred: false
 keywords:
   - google
   - digital
@@ -25,17 +17,27 @@ keywords:
   - analytics
   - harness
 description: Digital Agency is a new company specialising in measurable digital marketing with Google Adwords™ and Google Analytics™ Digital Agency is specifically geared towards helping Australian Nonprofits thrive with Google™ Ad Grants via Google for Nonprofits and SMBs harness the power of Google to connect with customers with immediacy and relevance in the moments that matter.
-inLanguage: en
+datePublished: '2016-03-08T12:52:39.585Z'
+dateModified: '2016-03-08T12:52:02.059Z'
+author: []
+related:
+  - score: 0.6778869033
+    description: It was just under two years ago when the injection of Google+ into YouTube comments caused quite a controversy. This change required the use of a Google+ account to participate in conversations on Google products. A new announcement today is decentralizing Google+ for Google users and focusing back on a standard Google account.
+    title: 'Google Drops The Google+ Requirement For Products, Starts Today With YouTube'
+    url: 'http://marketingland.com/google-drops-the-google-requirement-for-products-starts-today-with-youtube-136651'
+    thumbnail_height: 1080
+    thumbnail_url: 'http://marketingland.com/wp-content/ml-loads/2014/07/google-plus-logo2-1920.jpg'
+    thumbnail_width: 1920
 app_links: []
-isBasedOnUrl: 'https://www.linkedin.com/company/digital-agency-pty-ltd'
 title: Digital Agency PTY LTD
-datePublished: '2016-03-05T12:35:30.061Z'
-dateModified: '2016-03-05T12:25:04.251Z'
 sourcePath: _posts/2016-03-05-digital-agency-pty-ltd.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: LinkedIn
+  domain: www.linkedin.com
+  url: 'http://linkedin.com'
+  favicon: 'https://static.licdn.com/scds/common/u/images/logos/favicons/v1/favicon.ico'
 _context: 'http://schema.org'
 _type: MediaObject
 
