@@ -4,7 +4,7 @@
         <description><![CDATA[digital agency]]></description>
         <link>https://thegrid.ai/digital-agency/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 17 Mar 2016 00:41:30 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Mar 2016 05:02:21 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/digital-agency/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Join Us In Cygnet For Google Partners Connect]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/digital-agency/join-us-in-cygnet-for-google-partners-connect/index.html</link>
             <guid isPermaLink="false">ac749736-8380-4031-b5e6-0ae56eaa1629</guid>
             <pubDate>Wed, 09 Mar 2016 11:14:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Google third-party policy - Advertising Policies Help]]></title>
+            <description><![CDATA[<article><h1>Google third-party policy - Advertising Policies Help</h1><p>This policy applies to all third parties that purchase or manage Google advertising on behalf of their customers. Accountability is a core principle of Google advertising, and we want to make</p></article>]]></description>
+            <link>https://support.google.com/adwordspolicy/answer/6086450</link>
+            <guid isPermaLink="false">bfe9a679-f61b-433c-86a3-5958a3593c73</guid>
+            <pubDate>Thu, 17 Mar 2016 05:02:19 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Enterprise Analytics For Your Marketing | Google Analytics 360 - Google]]></title>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/digital-agency/follow-digital-agency-on-twitter/index.html</link>
             <guid isPermaLink="false">6c044899-fbe0-4127-bac6-2f389d7bb839</guid>
             <pubDate>Tue, 08 Mar 2016 07:31:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[LastPass.com]]></title>
-            <description><![CDATA[<article><h1>LastPass.com</h1><p>LastPass is an online password manager and form filler that makes web browsing easier and more secure.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/017cd888bd6a92873b2e94b32a5bcb223aa3a0e8.png"></article>]]></description>
-            <link>https://lastpass.com/friendwelcome.php?og=1&amp;ref=1936986</link>
-            <guid isPermaLink="false">f8f34b81-f1c4-475e-9006-86c04907571a</guid>
-            <pubDate>Sun, 06 Mar 2016 00:50:21 GMT</pubDate>
         </item>
     </channel>
 </rss>
