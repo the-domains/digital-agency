@@ -4,7 +4,7 @@
         <description><![CDATA[digital agency]]></description>
         <link>https://thegrid.ai/digital-agency/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 17 Mar 2016 05:02:21 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Mar 2016 03:39:56 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/digital-agency/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Join Us In Cygnet For Google Partners Connect]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/digital-agency/join-us-in-cygnet-for-google-partners-connect/index.html</link>
             <guid isPermaLink="false">ac749736-8380-4031-b5e6-0ae56eaa1629</guid>
             <pubDate>Wed, 09 Mar 2016 11:14:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Win Every Micro-Moment With a Better Mobile Strategy]]></title>
+            <description><![CDATA[<article><h1>Win Every Micro-Moment With a Better Mobile Strategy</h1><p>It's no secret mobile has changed how consumers behave. With the consumer journey fragmented into hundreds of micro-moments, it's increasingly important for brands to be there when consumers reach for their devices. Matt Lawson, Google's Director of Ads Marketing, explains how marketers can adapt.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7efc67ee4340e326d5f9c75f1aa1c833e1e62ba1.png"></article>]]></description>
+            <link>https://www.thinkwithgoogle.com/articles/win-every-micromoment-with-better-mobile-strategy.html?_utm_source=1-2-2#utm_source=Twitter&amp;utm_medium=social&amp;utm_campaign=Think</link>
+            <guid isPermaLink="false">33c6d7f5-935f-4851-8045-95360ba98cd0</guid>
+            <pubDate>Fri, 18 Mar 2016 03:39:48 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Google third-party policy - Advertising Policies Help]]></title>
@@ -68,13 +75,6 @@
             <link>https://partnersconnect.withgoogle.com/event/digital-agency</link>
             <guid isPermaLink="false">f73ecc8f-65b0-4aa9-8a14-0d59ec7ce511</guid>
             <pubDate>Tue, 08 Mar 2016 12:50:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Follow Digital Agency on Twitter]]></title>
-            <description><![CDATA[<article><h1>Follow Digital Agency on Twitter</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/615f7ee3ec83bc6c2a579e0153ee6b7244c7902d.png"></article>]]></description>
-            <link>https://thegrid.ai/digital-agency/follow-digital-agency-on-twitter/index.html</link>
-            <guid isPermaLink="false">6c044899-fbe0-4127-bac6-2f389d7bb839</guid>
-            <pubDate>Tue, 08 Mar 2016 07:31:05 GMT</pubDate>
         </item>
     </channel>
 </rss>
