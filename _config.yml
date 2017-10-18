@@ -29,33 +29,6 @@ author:
   name: Adrian Wedd
   url: 'http://adrianwedd.com'
   email: adrian@digitalagency.org.au
-content:
-  - id: !<tag:yaml.org,2002:js/undefined> ''
-    type: image
-    html: >-
-      <img
-      src="https://scontent-iad3-1.xx.fbcdn.net/v/t1.0-1/p200x200/1914595_1748921885340386_8162237074721875028_n.png?oh=39a5b9ce81c08e894d320127b8121d0d&oe=5A7F1907">
-    src: >-
-      https://scontent-iad3-1.xx.fbcdn.net/v/t1.0-1/p200x200/1914595_1748921885340386_8162237074721875028_n.png?oh=39a5b9ce81c08e894d320127b8121d0d&oe=5A7F1907
-    metadata:
-      author: []
-      related: []
-      publisher:
-        url: 'https://scontent-iad3-1.xx.fbcdn.net'
-        name: Fbcdn
-        favicon: 'https://scontent-iad3-1.xx.fbcdn.net/favicon.ico'
-        domain: scontent-iad3-1.xx.fbcdn.net
-      keywords: []
-      description: ''
-      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
-      app_links: []
-      '@context': 'http://schema.org'
-      '@type': MediaObject
-      isBasedOnUrl: >-
-        https://scontent-iad3-1.xx.fbcdn.net/v/t1.0-1/p200x200/1914595_1748921885340386_8162237074721875028_n.png?oh=39a5b9ce81c08e894d320127b8121d0d&oe=5A7F1907
-      datePublished: null
-    title: !<tag:yaml.org,2002:js/undefined> ''
-    caption: !<tag:yaml.org,2002:js/undefined> ''
-    text: !<tag:yaml.org,2002:js/undefined> ''
+content: []
 url: 'http://d1g1tal.agency'
 github: true
