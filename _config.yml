@@ -1,5 +1,5 @@
-layout_spectrum: 0.4328034666447098
-typography_spectrum: 0.1683210204940031
+layout_spectrum: 0.43258366103136525
+typography_spectrum: 0.8873333224673562
 color:
   brandColors:
     - '#FFFFFF'
@@ -7,10 +7,10 @@ color:
     - '#000000'
     - '#EA4335'
     - '#FBBC05'
-  brandStrength: 0.6038534167204236
-  lightness: 0.26422107655149285
-  saturation: 0.5376968115270322
-  rhythmicContrast: 0.19134338769545356
+  brandStrength: 0.606512737457207
+  lightness: 0.2619539110800528
+  saturation: 0.5336989770078165
+  rhythmicContrast: 0.11949611180083881
 name: digital agency
 cta: {}
 analytics:
@@ -47,7 +47,6 @@ content:
         domain: the-grid-user-content.s3-us-west-2.amazonaws.com
       keywords: []
       description: ''
-      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
       app_links: []
       '@context': 'http://schema.org'
       '@type': MediaObject
