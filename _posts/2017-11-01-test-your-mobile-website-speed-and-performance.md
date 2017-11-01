@@ -29,8 +29,8 @@ description: >-
 app_links: []
 isBasedOnUrl: 'https://testmysite.thinkwithgoogle.com/'
 title: Test Your Mobile Website Speed and Performance
-datePublished: '2017-11-01T22:48:26.545Z'
-dateModified: '2017-11-01T22:48:25.249Z'
+datePublished: '2017-11-01T22:49:59.029Z'
+dateModified: '2017-11-01T22:49:58.658Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-11-01-test-your-mobile-website-speed-and-performance.md
