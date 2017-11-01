@@ -1,5 +1,5 @@
 ---
-datePublished: '2017-11-01T22:56:51.819Z'
+datePublished: '2017-11-01T22:59:50.416Z'
 inFeed: true
 keywords:
   - offline
@@ -15,7 +15,7 @@ keywords:
 related: []
 author: []
 via: {}
-dateModified: '2017-11-01T22:56:51.312Z'
+dateModified: '2017-11-01T22:59:50.125Z'
 title: Sign Up for G Suite
 app_links: []
 publisher:
