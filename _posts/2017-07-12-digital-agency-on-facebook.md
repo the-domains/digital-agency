@@ -2,7 +2,7 @@
 isBasedOnUrl: 'https://www.facebook.com/d1g1tal.agency/'
 keywords: []
 title: ''
-dateModified: '2017-11-01T22:56:51.312Z'
+dateModified: '2017-11-01T22:59:50.125Z'
 publisher:
   url: 'https://www.facebook.com'
   name: Facebook
@@ -37,7 +37,7 @@ author:
 inFeed: true
 description: Digital Agency on Facebook
 via: {}
-datePublished: '2017-11-01T22:56:51.757Z'
+datePublished: '2017-11-01T22:59:50.409Z'
 sourcePath: _posts/2017-07-12-digital-agency-on-facebook.md
 starred: false
 datePublishedOriginal: '2017-07-12T02:21:26.740Z'
