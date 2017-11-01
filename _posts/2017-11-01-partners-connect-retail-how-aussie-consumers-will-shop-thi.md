@@ -64,8 +64,8 @@ app_links:
     type: ios
 isBasedOnUrl: 'https://youtu.be/o15b6ocVSQo?list=PLcqDi9Fp3MgQLIupceO51ja2cuKCXL-X_'
 title: Google Partners Connect Retail - September 2017
-datePublished: '2017-11-01T22:59:15.690Z'
-dateModified: '2017-11-01T22:59:13.738Z'
+datePublished: '2017-11-01T22:59:50.400Z'
+dateModified: '2017-11-01T22:59:50.125Z'
 via: {}
 inFeed: true
 sourcePath: >-
