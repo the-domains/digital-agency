@@ -13,14 +13,14 @@ description: >-
 app_links: []
 isBasedOnUrl: 'https://www.thinkwithgoogle.com/intl/en-aunz/'
 title: 'Think with Google Australia & New Zealand: Marketing Research & Digital Trends'
-datePublished: '2017-11-01T22:49:07.825Z'
-dateModified: '2017-11-01T22:48:55.420Z'
-datePublishedOriginal: '2017-11-01T22:49:07.825Z'
+datePublished: '2017-11-01T22:49:59.028Z'
+dateModified: '2017-11-01T22:49:58.658Z'
 via: {}
 inFeed: true
-starred: false
 sourcePath: >-
   _posts/2017-11-01-think-with-google-australia-and-new-zealand-marketing-researc.md
+starred: false
+datePublishedOriginal: '2017-11-01T22:49:07.825Z'
 _context: 'http://schema.org'
 _type: MediaObject
 
