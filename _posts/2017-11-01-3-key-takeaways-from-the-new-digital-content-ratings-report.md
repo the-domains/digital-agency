@@ -15,14 +15,14 @@ app_links: []
 isBasedOnUrl: >-
   https://www.thinkwithgoogle.com/intl/en-aunz/advertising-channels/video/3-key-takeaways-new-digital-content-ratings-report/
 title: 3 Key Takeaways From the New Digital Content Ratings Report
-datePublished: '2017-11-01T22:51:19.335Z'
-dateModified: '2017-11-01T22:51:05.278Z'
-datePublishedOriginal: '2017-11-01T22:51:19.335Z'
+datePublished: '2017-11-01T22:56:51.844Z'
+dateModified: '2017-11-01T22:56:51.312Z'
 via: {}
 inFeed: true
-starred: false
 sourcePath: >-
   _posts/2017-11-01-3-key-takeaways-from-the-new-digital-content-ratings-report.md
+starred: false
+datePublishedOriginal: '2017-11-01T22:51:19.335Z'
 _context: 'http://schema.org'
 _type: MediaObject
 
