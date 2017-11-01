@@ -16,8 +16,8 @@ isBasedOnUrl: 'https://www.thinkwithgoogle.com/intl/en-aunz/advertising-channels
 title: >-
   Why YouTube captures Australians' attention - Think with Google Australia &
   New Zealand
-datePublished: '2017-11-01T22:56:51.837Z'
-dateModified: '2017-11-01T22:56:51.312Z'
+datePublished: '2017-11-01T22:59:50.411Z'
+dateModified: '2017-11-01T22:59:50.125Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-11-01-why-youtube-captures-australians-attention-think-with-goo.md
