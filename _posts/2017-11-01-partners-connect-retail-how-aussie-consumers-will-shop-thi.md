@@ -11,12 +11,7 @@ publisher:
   domain: youtu.be
 keywords:
   - ''
-description: >-
-  When it comes to shopping, users want immediate, relevant, and frictionless
-  mobile experiences. In this video, you will learn about how mobile is changing
-  consumer expectations and how Aussie consumers will shop in this Christmas
-  season. Topics covered include consumer insights, key shopping trends and
-  information on how Retailers should prepare for the Christmas season.
+description: Google Partners Connect Retail - September 2017
 app_links:
   - url: >-
       vnd.youtube://www.youtube.com/watch?v=o15b6ocVSQo&list=PLcqDi9Fp3MgQLIupceO51ja2cuKCXL-X_&feature=applinks
@@ -64,8 +59,8 @@ app_links:
     type: ios
 isBasedOnUrl: 'https://youtu.be/o15b6ocVSQo?list=PLcqDi9Fp3MgQLIupceO51ja2cuKCXL-X_'
 title: Partners Connect Retail - How Aussie consumers will shop this Christmas (1/6)
-datePublished: '2017-11-01T22:56:51.847Z'
-dateModified: '2017-11-01T22:56:51.312Z'
+datePublished: '2017-11-01T22:58:54.680Z'
+dateModified: '2017-11-01T22:58:53.396Z'
 via: {}
 inFeed: true
 sourcePath: >-
@@ -76,4 +71,6 @@ _type: VideoObject
 _context: 'http://schema.org'
 
 ---
+Google Partners Connect Retail - September 2017
+
 <iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2Fvideoseries%3Flist%3DPLcqDi9Fp3MgQLIupceO51ja2cuKCXL-X_&amp;url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Do15b6ocVSQo&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2Fo15b6ocVSQo%2Fhqdefault.jpg&amp;key=a715cf41cc93453ca338d350cd26f87b&amp;type=text%2Fhtml&amp;schema=youtube" width="640" height="360" scrolling="no" frameborder="0" allowfullscreen="" style=""></iframe>
