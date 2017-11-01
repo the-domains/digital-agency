@@ -14,8 +14,8 @@ description: >-
 app_links: []
 isBasedOnUrl: 'https://aiyprojects.withgoogle.com/'
 title: AIY Projects
-datePublished: '2017-11-01T22:39:00.567Z'
-dateModified: '2017-11-01T22:39:00.269Z'
+datePublished: '2017-11-01T22:49:59.023Z'
+dateModified: '2017-11-01T22:49:58.658Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-09-20-aiy-projects.md
