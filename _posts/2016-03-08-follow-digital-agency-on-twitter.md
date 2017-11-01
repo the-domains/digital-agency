@@ -1,23 +1,23 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
 inLanguage: null
-starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-08T07:31:05.450Z'
-dateModified: '2016-03-08T07:30:47.597Z'
+datePublished: '2017-11-01T22:39:00.547Z'
+dateModified: '2017-11-01T22:39:00.269Z'
 title: Follow Digital Agency on Twitter
-author: []
+author:
+  - name: ''
+    url: ''
 authors: []
 publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+  name: Twitter
+  url: 'https://twitter.com/d1g1talagency'
 sourcePath: _posts/2016-03-08-follow-digital-agency-on-twitter.md
-published: true
+via: {}
+starred: false
+datePublishedOriginal: '2017-07-12T02:13:31.682Z'
 url: follow-digital-agency-on-twitter/index.html
 _context: 'http://schema.org'
 _type: Article
