@@ -13,8 +13,8 @@ description: >-
 app_links: []
 isBasedOnUrl: 'https://www.thinkwithgoogle.com/intl/en-aunz/'
 title: 'Think with Google Australia & New Zealand: Marketing Research & Digital Trends'
-datePublished: '2017-11-01T22:56:51.847Z'
-dateModified: '2017-11-01T22:56:51.312Z'
+datePublished: '2017-11-01T22:59:50.414Z'
+dateModified: '2017-11-01T22:59:50.125Z'
 via: {}
 inFeed: true
 sourcePath: >-
