@@ -4,8 +4,8 @@ description: >-
   Digital Agency helps Nonprofits and SMBs thrive with the Google™ AdWords
   platform to connect with new and existing supporters and customers with
   immediacy and relevance in the moments that matter.
-dateModified: '2017-11-01T22:37:27.321Z'
-datePublished: '2017-11-01T22:37:29.039Z'
+dateModified: '2017-11-01T22:39:00.269Z'
+datePublished: '2017-11-01T22:39:00.563Z'
 title: Digital Agency is a Google Partner
 author: []
 publisher: {}
