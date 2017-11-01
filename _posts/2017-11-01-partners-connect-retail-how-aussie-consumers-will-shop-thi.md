@@ -65,9 +65,9 @@ app_links:
 isBasedOnUrl: >-
   https://www.youtube.com/watch?v=o15b6ocVSQo&list=PLXbHJQ2srdzf9u9sdNeIxid13pdhXKLrh
 title: Partners Connect Retail - How Aussie consumers will shop this Christmas (1/6)
-datePublished: '2017-11-01T23:13:23.268Z'
-dateModified: '2017-11-01T23:13:17.828Z'
-datePublishedOriginal: '2017-11-01T23:13:23.268Z'
+datePublished: '2017-11-01T23:14:19.808Z'
+dateModified: '2017-11-01T23:14:14.330Z'
+datePublishedOriginal: '2017-11-01T23:14:19.808Z'
 via: {}
 inFeed: true
 starred: false
@@ -77,4 +77,4 @@ _type: VideoObject
 _context: 'http://schema.org'
 
 ---
-<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2Fvideoseries%3Flist%3DPLXbHJQ2srdzf9u9sdNeIxid13pdhXKLrh&amp;url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Do15b6ocVSQo&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2Fo15b6ocVSQo%2Fhqdefault.jpg&amp;key=a715cf41cc93453ca338d350cd26f87b&amp;type=text%2Fhtml&amp;schema=youtube" width="640" height="360" scrolling="no" frameborder="0" allowfullscreen="" style=""></iframe>
+<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2Fvideoseries%3Flist%3DPLXbHJQ2srdzf9u9sdNeIxid13pdhXKLrh&amp;url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Do15b6ocVSQo&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2Fo15b6ocVSQo%2Fhqdefault.jpg&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;type=text%2Fhtml&amp;schema=youtube" width="640" height="360" scrolling="no" frameborder="0" allowfullscreen="" style=""></iframe>
