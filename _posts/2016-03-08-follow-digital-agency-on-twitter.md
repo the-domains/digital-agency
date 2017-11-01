@@ -4,8 +4,8 @@ hasPage: true
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2017-11-01T22:56:51.773Z'
-dateModified: '2017-11-01T22:56:51.312Z'
+datePublished: '2017-11-01T22:59:50.395Z'
+dateModified: '2017-11-01T22:59:50.125Z'
 title: Follow Digital Agency on Twitter
 author:
   - name: ''
