@@ -64,14 +64,14 @@ app_links:
     type: ios
 isBasedOnUrl: 'https://youtu.be/o15b6ocVSQo?list=PLcqDi9Fp3MgQLIupceO51ja2cuKCXL-X_'
 title: Partners Connect Retail - How Aussie consumers will shop this Christmas (1/6)
-datePublished: '2017-11-01T22:55:43.574Z'
-dateModified: '2017-11-01T22:55:38.185Z'
-datePublishedOriginal: '2017-11-01T22:55:43.574Z'
+datePublished: '2017-11-01T22:56:51.847Z'
+dateModified: '2017-11-01T22:56:51.312Z'
 via: {}
 inFeed: true
-starred: false
 sourcePath: >-
   _posts/2017-11-01-partners-connect-retail-how-aussie-consumers-will-shop-thi.md
+starred: false
+datePublishedOriginal: '2017-11-01T22:55:43.574Z'
 _type: VideoObject
 _context: 'http://schema.org'
 
