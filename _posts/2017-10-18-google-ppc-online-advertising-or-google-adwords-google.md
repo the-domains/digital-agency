@@ -14,8 +14,8 @@ description: >-
 app_links: []
 isBasedOnUrl: 'https://adwords.google.com/home/'
 title: Google PPC Online Advertising | Google AdWords - Google
-datePublished: '2017-11-01T22:38:53.829Z'
-dateModified: '2017-11-01T22:38:38.539Z'
+datePublished: '2017-11-01T22:39:00.569Z'
+dateModified: '2017-11-01T22:39:00.269Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-10-18-google-ppc-online-advertising-or-google-adwords-google.md
