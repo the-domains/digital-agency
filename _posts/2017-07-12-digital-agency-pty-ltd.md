@@ -11,8 +11,8 @@ description: Digital Agency on LinkedIn
 app_links: []
 isBasedOnUrl: 'https://www.linkedin.com/company/digital-agency-pty-ltd'
 title: Digital Agency Pty Ltd
-datePublished: '2017-11-01T22:39:00.572Z'
-dateModified: '2017-11-01T22:39:00.269Z'
+datePublished: '2017-11-01T22:49:59.025Z'
+dateModified: '2017-11-01T22:49:58.658Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-07-12-digital-agency-pty-ltd.md
